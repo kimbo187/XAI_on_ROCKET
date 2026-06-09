@@ -41,7 +41,6 @@ xai_rocket/
 │
 ├── notebooks/
 │   ├── XAI_on_ROCKET_without_SHAP.py
-│   ├── XAI_on_ROCKET_without_SHAP.ipynb
 │   └── XAI_on_ROCKET_with_SHAP.py
 │
 ├── docs/
