@@ -1,0 +1,8 @@
+numpy>=1.21,<1.27
+scipy>=1.9
+scikit-learn>=1.2,<1.6
+numba>=0.57
+sktime>=0.25
+matplotlib>=3.6
+pandas>=1.4,<2.3
+jupyter>=1.0

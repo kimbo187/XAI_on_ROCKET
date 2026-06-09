@@ -1,0 +1,4 @@
+Dataset: GunPoint (UCR archive)
+Classifier: ROCKET features + RidgeClassifierCV
+Reported thesis result: ROCKET achieved up to 100% accuracy under the tested configuration.
+Note: Exact accuracy can vary slightly depending on random kernel generation unless the random seed and environment are fixed.

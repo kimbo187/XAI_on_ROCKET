@@ -1,0 +1,5 @@
+group,faithfulness_with_shap,faithfulness_without_shap,robustness_with_shap,robustness_without_shap
+below_kernel_size_positive,-0.0004 ± 0.0019,-0.0004 ± 0.0006,0.0006 ± 0.0000,0.2348 ± 0.0079
+above_kernel_size_positive,0.0001 ± 0.0024,-0.0005 ± 0.0006,0.0006 ± 0.0000,0.2232 ± 0.0083
+below_kernel_size_negative,0.0009 ± 0.0012,-0.0001 ± 0.0007,0.0007 ± 0.0000,0.2069 ± 0.0082
+above_kernel_size_negative,0.0003 ± 0.0018,0.0001 ± 0.0007,0.0007 ± 0.0000,0.2245 ± 0.0078

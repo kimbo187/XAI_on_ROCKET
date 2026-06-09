@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Generated outputs
+results/*.png
+results/*.pdf
+results/*.html
+results/*.npy
+results/*.npz
+!results/.gitkeep
+!results/faithfulness_robustness_summary.csv
+!results/accuracy_summary.txt
